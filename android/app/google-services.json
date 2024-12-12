@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "790906588205",
+    "project_id": "yavirac-d0090",
+    "storage_bucket": "yavirac-d0090.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790906588205:android:db2405d33df28efd923ca4",
+        "android_client_info": {
+          "package_name": "com.example.base_de_datos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzYqZHJ6w_sgFFdaS5J3dFRvhY9OcYzME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
